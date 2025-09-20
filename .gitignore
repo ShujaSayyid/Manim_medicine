@@ -1,3 +1,10 @@
+# Manim files 
+.manim/
+media/
+__pycache__/
+.venv/
+uv.lock # keep this tracked for reproducibility; remove this line if you want it in git
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
